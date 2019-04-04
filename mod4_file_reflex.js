@@ -1,6 +1,6 @@
 
-    // Imports user module mod4-quote_of_the_day.js
-let my_mod = require("./mod4-quote_of_the_day");
+ // Imports user module mod4-quote_of_the_day.js
+let my_mod = require("./mod4_quote_of_the_day");
 
 let fs = require("fs");   // Imports file system module
 
